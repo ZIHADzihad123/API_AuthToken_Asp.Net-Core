@@ -1,0 +1,17 @@
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\BLL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\BLL.pdb
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\BEL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\DAL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\BEL.pdb
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\bin\Debug\net6.0\DAL.pdb
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\BLL.pdb
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BLL\obj\Debug\net6.0\ref\BLL.dll

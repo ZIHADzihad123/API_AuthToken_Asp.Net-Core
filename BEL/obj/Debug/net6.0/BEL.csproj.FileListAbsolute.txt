@@ -1,0 +1,12 @@
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\bin\Debug\net6.0\BEL.deps.json
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\bin\Debug\net6.0\BEL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\bin\Debug\net6.0\BEL.pdb
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.csproj.AssemblyReference.cache
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.AssemblyInfoInputs.cache
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.AssemblyInfo.cs
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.csproj.CoreCompileInputs.cache
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\refint\BEL.dll
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\BEL.pdb
+E:\Web Development Tutorial\asp.net\Work\tokenBasedApi\BEL\obj\Debug\net6.0\ref\BEL.dll
